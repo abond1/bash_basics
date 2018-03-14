@@ -13,4 +13,4 @@ echo 'Your name was stored in $name'
 
 echo "Tell me a name of a file"
 read file
-echo "File has been created"
+echo "File $file has been created"
